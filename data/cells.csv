@@ -1,0 +1,8 @@
+cell_id,site_id,region,technology,vendor,band,latitude,longitude
+ISB_001,SITE_ISB_001,Islamabad,4G,Ericsson,B3,33.6844,73.0479
+ISB_002,SITE_ISB_001,Islamabad,4G,Ericsson,B3,33.6844,73.0479
+ISB_003,SITE_ISB_002,Islamabad,5G,Nokia,n78,33.7,73.06
+RWP_001,SITE_RWP_001,Rawalpindi,5G,Nokia,n78,33.5651,73.0169
+RWP_002,SITE_RWP_002,Rawalpindi,4G,Huawei,B1,33.59,73.05
+LHR_001,SITE_LHR_001,Lahore,4G,Huawei,B3,31.5204,74.3587
+LHR_002,SITE_LHR_002,Lahore,5G,Ericsson,n78,31.55,74.34

@@ -1,0 +1,4 @@
+incident_id,timestamp,cell_id,incident_type,severity,description
+INC_001,2026-08-21,ISB_002,CONGESTION,HIGH,High traffic load and elevated PRB utilization.
+INC_002,2026-08-22,RWP_001,INTERFERENCE,MEDIUM,Low SINR observed during peak hours.
+INC_003,2026-08-23,RWP_002,COVERAGE,HIGH,Poor RSRP and degraded mobility performance.
